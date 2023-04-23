@@ -1,3 +1,19 @@
+/* Containers */
+.container {
+  box-sizing: border-bor;
+  max-width: 1200px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.container-m {
+  box-sizing: border-bor;
+  max-width: 1400px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+/* Botão */
 .btn-amarelo {
   display: inline-block;
   padding: 16px 32px;
